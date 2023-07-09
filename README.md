@@ -2,7 +2,7 @@
 
 <img width="1030" alt="Screenshot 2023-07-09 at 23 10 15" src="https://github.com/RashRAJ/Capstone_project/assets/56790407/0a69fa5f-8a24-4b41-b082-6a4642c3170e">
 
-# Capstone_project
+## Breakdown of the Capstone_project ##
 
 This project aims to deploy a highly sophisticated car rental platform using Kubernetes as the orchestration framework. The platform will adopt a decoupled architecture, with Node.js serving as the backend technology and React as the frontend. Kubernetes will enable the application to achieve exceptional scalability, maintainability, and resilience.
 
