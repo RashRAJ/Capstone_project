@@ -12,7 +12,7 @@ Project Overview
 
 To accomplish this, the project will heavily rely on Amazon Web Services (AWS) as the primary service provider, making use of various pertinent services and cutting-edge technologies offered by AWS. This selection allows for optimal utilization of resources and cost-efficiency, ensuring a streamlined and reliable deployment.
 
-Overall, this project aims to deliver a technologically advanced car rental platform that harnesses Kubernetes's power, leverages AWS services' benefits, implements industry-standard practices, and prioritizes security. By doing so, it provides an optimized, scalable, and user-friendly solution for the car rental industry.
+Overall, this project aims to deliver a technologically advanced car rental platform that harnesses Kubernetes's power, leverages AWS services' benefits, implements industry-standard practices, and prioritizes security. By doing so, it will provide an optimized, scalable, and user-friendly solution for the car rental industry.
 
 
 ## Installed Apps
