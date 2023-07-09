@@ -8,7 +8,7 @@ This project aims to deploy a highly sophisticated car rental platform using Kub
 
 Users of the platform will benefit from a comprehensive range of features, including the ability to browse, add, and remove cars from the rental inventory, schedule, and book test drives, as well as manage their existing bookings seamlessly. 
 
-Project Overview 
+## Project Overview 
 
 To accomplish this, the project will heavily rely on Amazon Web Services (AWS) as the primary service provider, making use of various pertinent services and cutting-edge technologies offered by AWS. This selection allows for optimal utilization of resources and cost-efficiency, ensuring a streamlined and reliable deployment.
 
@@ -16,18 +16,28 @@ Overall, this project aims to deliver a technologically advanced car rental plat
 
 
 ## Installed Apps
-Argo CD  <img width="1306" alt="Screenshot 2023-07-09 at 22 54 21" src="https://github.com/RashRAJ/Capstone_project/assets/56790407/a3ab74ff-e7ba-4087-ac99-296492b6e9c7">
+### Argo CD 
+argocd.octoarts.me
 
-Kubecost
+ <img width="1306" alt="Screenshot 2023-07-09 at 22 54 21" src="https://github.com/RashRAJ/Capstone_project/assets/56790407/a3ab74ff-e7ba-4087-ac99-296492b6e9c7">
+
+### Kubecost
+
 <img width="1306" alt="Screenshot 2023-07-09 at 22 55 44" src="https://github.com/RashRAJ/Capstone_project/assets/56790407/dbe8ac36-e319-4da7-8a55-72812d76ce9c">
 
-Grafana
+### Grafana
+grafana.octoarts.me
+
 <img width="1306" alt="Screenshot 2023-07-09 at 22 57 05" src="https://github.com/RashRAJ/Capstone_project/assets/56790407/e39ff71b-02b2-452b-ad0a-919fe33729ca">
 
-Car-rental app
+### Car-rental app
+reantal.octoarts.me
 
 <img width="1306" alt="Screenshot 2023-07-09 at 23 03 03" src="https://github.com/RashRAJ/Capstone_project/assets/56790407/98f67e89-51e8-4175-883b-ea2661eae696">
 
+### Prometheus
+prometheus.octoarts.me
 
+<img width="1552" alt="Screenshot 2023-07-09 at 23 36 39" src="https://github.com/RashRAJ/Capstone_project/assets/56790407/8329e517-9180-4a59-ba5e-48ee0292f7d2">
 
 
