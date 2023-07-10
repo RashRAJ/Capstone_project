@@ -13,7 +13,6 @@ To accomplish this, the project will heavily rely on Amazon Web Services (AWS) a
 
 Overall, this project aims to deliver a technologically advanced car rental platform that harnesses Kubernetes's power, leverages AWS services' benefits, implements industry-standard practices, and prioritizes security. By doing so, it will provide an optimized, scalable, and user-friendly solution for the car rental industry.
 
-
 ## Implementation Process
 
 ### Stage 1
@@ -26,7 +25,7 @@ Containerize the car rental application services frontend and backend using Dock
 Configure Argo CD to automate the build, test, and deployment processes. Set up continuous integration to build and test the application codebase on each commit. Enable continuous deployment to automatically deploy new features or bug fixes to staging and production environments.
 
 ### Stage 4
-Set up Prometheus as the monitoring tool to collect metrics from the application and Kubernetes cluster. Integrate Grafana for visualizing and analyzing the collected metrics. Configure alerting rules to notify the team about critical issues or anomalies. Set up signoz to collect logs, configure the uptime dashboard, and Slack alerting.
+Set up Prometheus as the monitoring tool to collect metrics from the application and Kubernetes cluster. Integrate Grafana for visualizing and analyzing the collected metrics. Configure alerting rules to notify the team about critical issues or anomalies. 
 
 ### Stage 5
 Deloy Kubecost to the cluster, apply cost reduction recommendations. 
