@@ -1,4 +1,4 @@
-## Architectural Diagram for the Capstone_project ##
+## Architectural Diagram for the Capstone project ##
 <img width="1030" alt=" Capstone Diagram" src="https://github.com/RashRAJ/Capstone_project/assets/108562214/eed0b340-c2bd-49cc-a77e-d074ed85809e">
 
 ## Breakdown of the Capstone_project ##
