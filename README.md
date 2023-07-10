@@ -1,5 +1,7 @@
 
-[Capstone DIagram.pdf](https://github.com/RashRAJ/Capstone_project/files/12006033/Capstone.DIagram.pdf)
+[Capstone DIagram.pdf]<br>
+
+(https://github.com/RashRAJ/Capstone_project/files/12006033/Capstone.DIagram.pdf)
 
 <img width="1030" alt="Screenshot 2023-07-09 at 23 10 15" src="https://github.com/RashRAJ/Capstone_project/assets/56790407/0a69fa5f-8a24-4b41-b082-6a4642c3170e">
 
