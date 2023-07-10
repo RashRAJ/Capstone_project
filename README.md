@@ -1,9 +1,5 @@
-
-
-
+## Architectural Diagram for the Capstone_project ##
 <img width="1030" alt=" Capstone Diagram" src="https://github.com/RashRAJ/Capstone_project/assets/108562214/eed0b340-c2bd-49cc-a77e-d074ed85809e">
-
-<img width="1030" alt="Screenshot 2023-07-09 at 23 10 15" src="https://github.com/RashRAJ/Capstone_project/assets/56790407/0a69fa5f-8a24-4b41-b082-6a4642c3170e">
 
 ## Breakdown of the Capstone_project ##
 
@@ -16,6 +12,27 @@ Users of the platform will benefit from a comprehensive range of features, inclu
 To accomplish this, the project will heavily rely on Amazon Web Services (AWS) as the primary service provider, making use of various pertinent services and cutting-edge technologies offered by AWS. This selection allows for optimal utilization of resources and cost-efficiency, ensuring a streamlined and reliable deployment.
 
 Overall, this project aims to deliver a technologically advanced car rental platform that harnesses Kubernetes's power, leverages AWS services' benefits, implements industry-standard practices, and prioritizes security. By doing so, it will provide an optimized, scalable, and user-friendly solution for the car rental industry.
+
+
+## Implementation Process
+
+### Stage 1
+Set up the EKS infrastructure using infrastructure as code (Terraform)
+
+### Stage 2
+Containerize the car rental application services frontend and backend using Docker, create Docker images, push images to GCHR, and deploy them onto the Kubernetes cluster. 
+
+### Stage 3
+Configure Argo CD to automate the build, test, and deployment processes. Set up continuous integration to build and test the application codebase on each commit. Enable continuous deployment to automatically deploy new features or bug fixes to staging and production environments.
+
+### Stage 4
+Set up Prometheus as the monitoring tool to collect metrics from the application and Kubernetes cluster. Integrate Grafana for visualizing and analyzing the collected metrics. Configure alerting rules to notify the team about critical issues or anomalies. Set up signoz to collect logs, configure the uptime dashboard, and Slack alerting.
+
+### Stage 5
+Deloy Kubecost to the cluster, apply cost reduction recommendations. 
+
+### Stage 6
+Conduct knowledge transfer sessions with the operations and maintenance team to ensure a smooth handover and ongoing support.
 
 
 ## Installed Apps
